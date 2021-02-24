@@ -5,5 +5,5 @@
 
 * Taking walks 
 * Watching anime
-  * Attack On Titan 
+  * Attack On Titan :heart:
   * Black CLover
