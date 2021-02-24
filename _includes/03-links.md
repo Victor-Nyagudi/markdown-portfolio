@@ -1,1 +1,1 @@
-![link to Victor's github](https://github.com/Victor-Nyagudi)
+[Github](https://github.com/Victor-Nyagudi)
