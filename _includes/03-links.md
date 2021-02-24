@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+![Image of a muscle car](https://smartcdn.prod.postmedia.digital/driving/wp-content/uploads/2020/05/chrome-image-411876.png)
