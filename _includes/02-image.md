@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of a muscle car](https://smartcdn.prod.postmedia.digital/driving/wp-content/uploads/2020/05/chrome-image-411876.png)
