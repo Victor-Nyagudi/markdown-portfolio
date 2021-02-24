@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I started programming after a desire to learn **game dev** so I could make some games in Unity. It was *easy* at first, but then things started to get a bit crazy. But like a song I like once said, _how will you know **if you never try**__
