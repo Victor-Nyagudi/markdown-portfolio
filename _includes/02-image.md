@@ -1,1 +1,1 @@
-![Image of a muscle car](https://smartcdn.prod.postmedia.digital/driving/wp-content/uploads/2020/05/chrome-image-411876.png)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
